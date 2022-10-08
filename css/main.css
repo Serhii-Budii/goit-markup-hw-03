@@ -1,0 +1,167 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.list {
+    list-style: none;
+}
+
+.link {
+    text-decoration: none;
+}
+.link:hover,
+.link:focus {
+  color: #2196f3;
+}
+/* ------HEAD--------- */
+.header {
+  background: #ffffff;
+}
+.content-btn {
+  cursor: pointer;
+}
+.header-logo,
+.footer-logo{
+font-family: 'Raleway';
+font-weight: 700;
+font-size: 26px;
+line-height: 1.19;
+color: #000000;
+}
+.head-logo,
+.foot-logo{
+color: #2196F3;
+}
+.header-link, 
+.header-mail,
+.header-tel{
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+
+color: #212121;
+}
+
+.header-mail,
+.header-tel{
+color: #757575;
+}
+.header-item .current {
+color: #2196f3;
+}
+
+/* ------HERO------- */
+.hero{
+background-color: #2F303A;
+}
+.hero-title {
+font-weight: 900;
+font-size: 44px;
+line-height: 1.36;
+text-transform: uppercase;
+letter-spacing: 0.06em;
+color: #FFFFFF;
+}
+
+.hero-title-btn{
+font-family: inherit;
+font-weight: 700;
+font-size: 16px;
+line-height: 1.88;
+
+color: #FFFFFF;
+}
+.content-title {
+font-weight: 700;
+font-size: 14px;
+line-height: 1.14;
+
+color: #212121;
+}
+.content-text{
+font-size: 14px;
+line-height: 1.71;
+
+color: #757575;
+}
+
+.box-title,
+.team-title {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.17;
+text-align: center;
+
+color: #212121;
+}
+
+.team-comand {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.19;
+
+color: #212121;
+}
+.team-special{
+line-height: 1.19;
+
+color: #757575;
+}
+/* ------footer----- */
+.footer{
+background: #2F303A;
+}
+
+.footer-logo {
+font-family: 'Raleway';
+font-weight: 700;
+font-size: 26px;
+line-height: 1.19;
+
+color: #FFFFFF;
+}
+.adress{
+font-style: normal;
+
+font-size: 14px;
+line-height: 1.71;
+
+color: #FFFFFF;
+}
+
+.footer-mail,
+.footer-tel {
+font-style: normal;
+font-size: 14px;
+line-height: 1.71;
+
+color: rgba(255, 255, 255, 0.6);
+}
+/* -----portfolio---- */
+.main-btn {
+font-family: inherit;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.63;
+
+color: #212121;
+}
+
+.portfol-title {
+font-weight: 700;
+font-size: 18px;
+line-height: 2;
+
+color: #212121;
+}
+.portfol-text {
+
+line-height: 1.88;
+
+color: #757575;
+}
+
+.main-btn {
+  cursor: pointer;
+}
